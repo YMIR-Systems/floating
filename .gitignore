@@ -2,3 +2,7 @@
 .env.*.php
 .env.php
 .env
+/floating/.env.example
+/floating/storage
+/floating/vendor
+/_ide_helper.php
